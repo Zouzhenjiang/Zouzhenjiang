@@ -47,9 +47,9 @@ The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUATIC TOXICOLOGY</div><img src='images/CAOYU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*)](assets/1-s2.0-S0166445X23000851-main.pdf), ***AQUATIC TOXICOLOGY***
+[DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (*Carassius auratus*)](assets/1-s2.0-S0166445X23000851-main.pdf), ***Journal of Anhui Agriculture University***
 
-**Dingrui Liu**, Zhuowei Zhang, Yikun Song, et al
+**Jingwen WANG**, Zhenjiang Zou, Lijuan Li, et al
 
 - 
 Grass carp exhibited great adaptability to low salinity (2 ppt), with no significant difference in growth and maintained stable physiological and immune status. However, exposed to high salinity (6 ppt) caused deleterious effects on grass carp, including growth inhibition as well as physiological and immune-related changes. The gut microbiota in grass carp changed with salinity. 
