@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✌️ About me
-I am now a master student at the [School of Life Sciences, Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Here is my CV: [Zhenjiang's Curriculum Vitage](assets/Zou Zhenjiang-CV.pdf). Currently, my research primarily focuses on uncovering the anti-disease immune mechanisms of aquatic animals through single-cell transcriptomics and multi-omics joint analysis. I have a background in handling sequencing data, single-cell transcriptome analysis, data visualization, and molecular biology experiments. My current research interest is bioinformatics and computational biology. I have excellent English skills and a friendly personality, and I can effectively collaborate with team members to complete tasks. If you are interested in my research, please feel free to contact me anytime.
+I am now a master student at the [School of Life Sciences, Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Here is my CV:[Zhenjiang's Curriculum Vitage](assets/Zou Zhenjiang-CV.pdf). My research currently centers on elucidating the anti-disease immune mechanisms of aquatic animals by leveraging single-cell transcriptomics and integrated multi-omics analysis. With a solid foundation in managing sequencing data, conducting single-cell transcriptome analyses, visualizing data, and performing molecular biology experiments, my current research passions lie within the realms of bioinformatics and computational biology. I possess excellent English proficiency and a pleasant demeanor, enabling me to collaborate seamlessly with team members to accomplish our objectives.  If you are intrigued by my research endeavors, please do not hesitate to reach out to me at any time.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Won the **first-class award** of the 1st Academic Forum Competition of department of science, Sun Yat-sen University! 🎉🎉
@@ -28,7 +28,7 @@ I am now a master student at the [School of Life Sciences, Sun Yat-sen Universit
 - *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
 - *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***AQUATIC TOXICOLOGY***!🎉🎉
 - *2022.08*: &nbsp;🎉🎉 Just won the **L.X.H-L.D scholarship** from Sun Yat-sen University! 🎉🎉
-- *2021.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.1! 🎉🎉
+- *2022.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.3! 🎉🎉
 
 # 📝 Publications 
 
