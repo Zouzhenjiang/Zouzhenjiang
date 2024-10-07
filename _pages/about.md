@@ -37,7 +37,7 @@ I am now a master student at the [School of Life Sciences, Sun Yat-sen Universit
 
 [Identification of SNPs and candidate genes associate with growth performance in all-female mandarin fish (*Siniperca chuatsi*) by a genome-wide association study](assets/1-s2.0-S0044848624002394-main.pdf), ***AQUACULTURE***
 
-**Dingrui Liu**, Jin Zhang, Zhenjiang Zou, et al
+Dingrui Liu, Jin Zhang, **Zhenjiang Zou**, et al
 
 - 
 The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I, *Siniperca Chuatsi*) was conducted. A total of 6 significant and 25 suggestive SNPs were detected on multiple chromosomes. The proportion of phenotypic variance explained for these SNPs ranged from 9.66% to 19.47% for growth traits. 
