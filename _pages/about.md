@@ -34,7 +34,7 @@ I am now a master student at the [School of Life Sciences, Sun Yat-sen Universit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Free Radical Biology and Medicine</div><img src='images/Graphica Abstractl-FRBM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-EcSREC*Ⅱ* facilitates the internalization of oxidized LDL (oxLDL) and participates in the regulation of oxidative stress and immune response by promoting lipid accumulation, **Free Radical Biology and Medicine**(Minor revision)
+EcSREC*Ⅱ* facilitates the internalization of oxidized LDL (oxLDL) and participates in the regulation of oxidative stress and immune response by promoting lipid accumulation, ***Free Radical Biology and Medicine***
 
 **Zhenjiang Zou**, Yuyou Lu, Chen Long, et al
 
