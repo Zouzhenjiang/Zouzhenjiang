@@ -26,7 +26,7 @@ I am now a master student at the [School of Life Sciences, Sun Yat-sen Universit
 - *2023.07*: &nbsp;🎉🎉 Just won the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition! 🎉🎉
 - *2023.06*: &nbsp;🎉🎉 Scored **7.0** in IELTS English test (R:7.5 S:6.5 L:7.5 W:6.25) ! 🎉🎉
 - *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
-- *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***AQUATIC TOXICOLOGY***!🎉🎉
+- *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***Journal of Anhui Agriculture University***!🎉🎉
 - *2022.08*: &nbsp;🎉🎉 Just won the **L.X.H-L.D scholarship** from Sun Yat-sen University! 🎉🎉
 - *2022.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.3! 🎉🎉
 
@@ -65,7 +65,7 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signif
 - *2023.07*: &nbsp;🎉🎉 the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition 🎉🎉
 - *2022.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
 - *2022.08*: &nbsp;🎉🎉 the **L.X.H-L.D scholarship** from Sun Yat-sen University 🎉🎉
-- *2021.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
+- *2022.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
 
 
 # 📖 Educations
