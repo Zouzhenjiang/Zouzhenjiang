@@ -39,7 +39,7 @@ EcSREC*Ⅱ* facilitates the internalization of oxidized LDL (oxLDL) and particip
 **Zhenjiang Zou**, Yuyou Lu, Chen Long, et al
 
 - 
-SRECII from Epinephelus coioides (EcSRECII) may modulate fatty acid oxidation and oxidative stress levels via interactions with lipoprotein particles.   EcSRECII mediates the internalization of oxidized Low-Density Lipoprotein (oxLDL), thereby inducing lipid accumulation.   
+SRECII from *Epinephelus coioides* (EcSRECII) modulate fatty acid oxidation and oxidative stress levels via interactions with lipoprotein particles. EcSRECII mediates the internalization of oxidized Low-Density Lipoprotein (oxLDL), thereby inducing lipid accumulation.   
 </div>
 </div>
 
