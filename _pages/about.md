@@ -80,9 +80,8 @@ Double antibody sandwich ELISA(DAS-ELISA) based on *i-fabp* gene of Carassius au
 
 
 # 📖 Educations
-- *2024.09 - now*, PhD candidate, Westlake University. Shenzhen Medical Academy of Research and Translation, **SMART**, majoring in biology
-- *2021.09 - 2024.06*, Master of science, Sun Yat-sen University. School of Life Science, majoring in biology
-- *2017.09 - 2021.06*, Bachelor of Agriculture, South China Agrigulture University. School of Marine Science, majoring in aquaculture.
+- *2022.09 - Now*, Master of science, Sun Yat-sen University. School of Life Science, majoring in biology
+- *2018.09 - 2022.06*, Bachelor of Agriculture, Huazhong Agrigulture University. School of Fisheries, majoring in aquaculture.
 
 # 💬 Invited Talks
 - *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/4646))
