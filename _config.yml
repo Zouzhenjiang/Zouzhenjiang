@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dingrui Liu (刘鼎瑞)"
+title                    : "Zhenjiang Zou (刘鼎瑞)"
 description              : "A proud SMARTer."
-repository               : "LiuDingrui9/Dingrui.github.io"
+repository               : "Zouzhenjiang/zouzhenjiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
