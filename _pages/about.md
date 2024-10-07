@@ -31,7 +31,17 @@ I am now a master student at the [School of Life Sciences, Sun Yat-sen Universit
 - *2022.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.3! 🎉🎉
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Free Radical Biology and Medicine</div><img src='images/Graphica Abstractl-FRBM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+EcSREC*Ⅱ* facilitates the internalization of oxidized LDL (oxLDL) and participates in the regulation of oxidative stress and immune response by promoting lipid accumulation, **Free Radical Biology and Medicine**
+
+Zhenjiang Zou, Yuyou Lu, Chen Long, et al
+
+- 
+SRECII from Epinephelus coioides (EcSRECII) may modulate fatty acid oxidation and oxidative stress levels via interactions with lipoprotein particles.   EcSRECII mediates the internalization of oxidized Low-Density Lipoprotein (oxLDL), thereby inducing lipid accumulation.   
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUACULTURE</div><img src='images/GYSZGWAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
