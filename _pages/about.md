@@ -55,7 +55,7 @@ The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUATIC TOXICOLOGY</div><img src='images/CAOYU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Anhui Agriculture University</div><img src='images/DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (Carassius auratus).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (*Carassius auratus*)](assets/DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (Carassius auratus).pdf), ***Journal of Anhui Agriculture University***
@@ -63,7 +63,7 @@ The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I,
 Jingwen WANG, **Zhenjiang Zou**, Lijuan Li, et al
 
 - 
-Grass carp exhibited great adaptability to low salinity (2 ppt), with no significant difference in growth and maintained stable physiological and immune status. However, exposed to high salinity (6 ppt) caused deleterious effects on grass carp, including growth inhibition as well as physiological and immune-related changes. The gut microbiota in grass carp changed with salinity. 
+Double antibody sandwich ELISA(DAS-ELISA) based on *i-fabp* gene of Carassius auratus I-FABP was developed by using the recombinant protein I-FABP to produce rabbit and mouse polyclonal antibodies. The linear regression equation of the standard curve is y=0.003 5x+0.036 7,R^2^ is 0.9991, and the critical value is 0.0906. Intra-lot and inter-lot variation coefficients were 1.17%-5.50% and 0.16%-4.78%, respectively. The method was used to detect 54 samples, and the coincidence rate was 100% compared with commercial kits.
 </div>
 </div>
 
