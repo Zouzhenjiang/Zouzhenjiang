@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenjiang Zou (刘鼎瑞)"
+title                    : "Zhenjiang Zou (邹振江)"
 description              : "A proud SMARTer."
 repository               : "Zouzhenjiang/zouzhenjiang.github.io"
 google_scholar_stats_use_cdn : true
