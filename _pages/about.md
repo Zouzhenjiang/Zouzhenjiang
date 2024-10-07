@@ -14,20 +14,10 @@ redirect_from:
 I am now a master student at the [School of Life Sciences, Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Here is my CV:[Zhenjiang's Curriculum Vitage](assets/Zou Zhenjiang-CV.pdf). My research currently centers on elucidating the anti-disease immune mechanisms of aquatic animals by leveraging single-cell transcriptomics and integrated multi-omics analysis. With a solid foundation in managing sequencing data, conducting single-cell transcriptome analyses, visualizing data, and performing molecular biology experiments, my current research passions lie within the realms of bioinformatics and computational biology. I possess excellent English proficiency and a pleasant demeanor, enabling me to collaborate seamlessly with team members to accomplish our objectives.  If you are intrigued by my research endeavors, please do not hesitate to reach out to me at any time.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Won the **first-class award** of the 1st Academic Forum Competition of department of science, Sun Yat-sen University! 🎉🎉
-- *2024.06*: &nbsp;🎉🎉 Been awarded as the **outstanding graduates** of Sun Yat-sen University! 🎉🎉
-- *2024.05*: &nbsp;🎉🎉 Officially accept PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
-- *2024.05*: &nbsp;🎉🎉 Received PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
-- *2024.05*: &nbsp;🎉🎉 Received PhD offer from **University of Chinese Academy of Sciences--BGI joint PhD programme** as rank No.1! 🎉🎉
-- *2024.03*: &nbsp;🎉🎉 My second research article got accepted by ***AQUACULTURE***!🎉🎉
-- *2023.12*: &nbsp;🎉🎉 Won the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University! 🎉🎉
-- *2023.11*: &nbsp;🎉🎉 Received PhD offer from **University of Edingburgh**! 🎉🎉
-- *2023.10*: &nbsp;🎉🎉 Just won the **National postgraduate schloaship** (TOP 1%)! 🎉🎉
-- *2023.07*: &nbsp;🎉🎉 Just won the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition! 🎉🎉
-- *2023.06*: &nbsp;🎉🎉 Scored **7.0** in IELTS English test (R:7.5 S:6.5 L:7.5 W:6.25) ! 🎉🎉
+- *2024.10*: &nbsp;🎉🎉 My second research article is under minor revision！🎉🎉
+- *2024.06*: &nbsp;🎉🎉 Started submitting my second research article as the first author!🎉🎉
 - *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
 - *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***Journal of Anhui Agriculture University***!🎉🎉
-- *2022.08*: &nbsp;🎉🎉 Just won the **L.X.H-L.D scholarship** from Sun Yat-sen University! 🎉🎉
 - *2022.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.3! 🎉🎉
 
 # 📝 Publications 
@@ -68,25 +58,14 @@ Double antibody sandwich ELISA(DAS-ELISA) based on *i-fabp* gene of Carassius au
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06*: &nbsp;🎉🎉 the **first-class award** of the the 1st Academic Forum Competition of department of science, Sun Yat-sen University 🎉🎉
-- *2024.06*: &nbsp;🎉🎉 the **Outstanding Graduates** of Sun Yat-sen University 🎉🎉
-- *2023.12*: &nbsp;🎉🎉 the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University 🎉🎉
-- *2023.10*: &nbsp;🎉🎉 the **National postgraduate schloaship** (TOP 1%) 🎉🎉
 - *2023.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
-- *2023.07*: &nbsp;🎉🎉 the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition 🎉🎉
 - *2022.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
-- *2022.08*: &nbsp;🎉🎉 the **L.X.H-L.D scholarship** from Sun Yat-sen University 🎉🎉
-- *2022.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
+- *2021.11*：&nbsp;🎉🎉 the Merit Student from Huazhong Agricultural University
+- *2020.11*: &nbsp;🎉🎉 the Merit Student from Huazhong Agricultural University
+- *2019.04*: &nbsp;🎉🎉 the Outstanding Communist Youth League member from Huazhong Agricultural University
 
 
 # 📖 Educations
 - *2022.09 - Now*, Master of science, Sun Yat-sen University. School of Life Science, majoring in biology
 - *2018.09 - 2022.06*, Bachelor of Agriculture, Huazhong Agrigulture University. School of Fisheries, majoring in aquaculture.
 
-# 💬 Invited Talks
-- *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/4646))
-- *2023.10*, Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/2544))
-
-# 💻 Internships
-- *2023.04 - 2022.08*, Guangzhou Nansha aquatic park industry co, ltd. Guangzhou, China.
-- *2021.10 - 2022.06*, Guangdong Liangshi aquatic breeding co, ltd. Foshan, China.
