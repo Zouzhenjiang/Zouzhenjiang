@@ -25,7 +25,8 @@ I am now a master student at the [School of Life Sciences, Sun Yat-sen Universit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Free Radical Biology and Medicine</div><img src='images/Graphica Abstractl-FRBM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interaction mechanism of lipid metabolism remodeling, oxidative stress, and immune response mediated by *Epinephelus coioides* SRECII]([https://lifesciences.sysu.edu.cn/](https://www.sciencedirect.com/science/article/pii/S0891584924010918)), ***Free Radical Biology and Medicine(IF=7.1)***
+[Interaction mechanism of lipid metabolism remodeling, oxidative stress, and immune response mediated by *Epinephelus coioides* SRECII [(https://www.sciencedirect.com/science/article/pii/S0891584924010918)], 
+***Free Radical Biology and Medicine(IF=7.1)***
 
 **Zhenjiang Zou**, Yuyou Lu, Chen Long, et al
 
@@ -37,7 +38,8 @@ SRECII from *Epinephelus coioides* (EcSRECII) modulate fatty acid oxidation and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUACULTURE</div><img src='images/GYSZGWAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Identification of SNPs and candidate genes associate with growth performance in all-female mandarin fish (*Siniperca chuatsi*) by a genome-wide association study](assets/1-s2.0-S0044848624002394-main.pdf), ***AQUACULTURE***
+[Identification of SNPs and candidate genes associate with growth performance in all-female mandarin fish (*Siniperca chuatsi*) by a genome-wide association study](assets/1-s2.0-S0044848624002394-main.pdf), 
+***AQUACULTURE***
 
 Dingrui Liu, Jin Zhang, **Zhenjiang Zou**, et al
 
@@ -49,7 +51,8 @@ The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Anhui Agriculture University</div><img src='images/DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (Carassius auratus).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (*Carassius auratus*)](assets/DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (Carassius auratus).pdf), ***Journal of Anhui Agriculture University***
+[DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (*Carassius auratus*)](assets/DAS-ELISA method of detecting intestinal permeability based on I-FABP in crucian carp (Carassius auratus).pdf), 
+***Journal of Anhui Agriculture University***
 
 Jingwen WANG, **Zhenjiang Zou**, Lijuan Li, et al
 
