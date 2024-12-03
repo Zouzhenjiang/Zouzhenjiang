@@ -14,6 +14,7 @@ redirect_from:
 I am now a master student at the [School of Life Sciences, Sun Yat-sen University](https://lifesciences.sysu.edu.cn/). Here is my CV:[Zhenjiang's Curriculum Vitage](assets/Zou Zhenjiang-CV.pdf). My research currently centers on elucidating the anti-disease immune mechanisms of aquatic animals by leveraging single-cell transcriptomics and integrated multi-omics analysis. With a solid foundation in managing sequencing data, conducting single-cell transcriptome analyses, visualizing data, and performing molecular biology experiments, my current research passions lie within the realms of bioinformatics and computational biology. I possess excellent English proficiency and a pleasant demeanor, enabling me to collaborate seamlessly with team members to accomplish our objectives.  If you are intrigued by my research endeavors, please do not hesitate to reach out to me at any time.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 My second research article got accepted by ***Free Radical Biology and Medicine(IF=7.1)***！🎉🎉
 - *2024.10*: &nbsp;🎉🎉 My second research article is under minor revision！🎉🎉
 - *2024.06*: &nbsp;🎉🎉 Started submitting my second research article as the first author!🎉🎉
 - *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
