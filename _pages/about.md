@@ -25,7 +25,7 @@ I am now a master student at the [School of Life Sciences, Sun Yat-sen Universit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Free Radical Biology and Medicine</div><img src='images/Graphica Abstractl-FRBM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interaction mechanism of lipid metabolism remodeling, oxidative stress, and immune response mediated by *Epinephelus coioides* SRECII [(https://www.sciencedirect.com/science/article/pii/S0891584924010918)], 
+[Interaction mechanism of lipid metabolism remodeling, oxidative stress, and immune response mediated by *Epinephelus coioides* SRECII](https://www.sciencedirect.com/science/article/pii/S0891584924010918), 
 ***Free Radical Biology and Medicine(IF=7.1)***
 
 **Zhenjiang Zou**, Yuyou Lu, Chen Long, et al
